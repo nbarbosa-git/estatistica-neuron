@@ -1,1 +1,1 @@
-Treinamento estatística para data science da neuron DS
+Treinamento estatística para data science da neuron DS.
